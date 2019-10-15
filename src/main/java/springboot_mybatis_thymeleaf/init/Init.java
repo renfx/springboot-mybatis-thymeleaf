@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 @Log
-public class InitTables implements CommandLineRunner {
+public class Init implements CommandLineRunner {
 
 
     @Override

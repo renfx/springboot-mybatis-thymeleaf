@@ -1,5 +1,5 @@
 ## 项目简述
-springboot + mybatis + tk.mybatis + thymeleaf + 代码生成
+springboot + mybatis + tk.mybatis + thymeleaf + pageHelper + 代码生成
 
 虽然idea创建项目可以快速集成这些框架,但还是需要一些配置或者遇到一些错误
 

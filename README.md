@@ -13,7 +13,7 @@ springboot + mybatis + tk.mybatis + thymeleaf + 代码生成
 
 git clone项目 -> 修改项目文件夹 -> Idea导入项目 -> 修改包名springboot_mybatis_thymeleaf为想要的包名,如:com.rfxdevelop.utils
 
-注意:需勾选search in comments and strings和search for text occurrences
+> 注意:需勾选search in comments and strings和search for text occurrences
 
 最后全局替换springboot_mybatis_thymeleaf为更换的包名,如:com.rfxdevelop.utils
 
